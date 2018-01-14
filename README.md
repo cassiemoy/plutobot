@@ -1,21 +1,7 @@
 # Plutobot
 
-**TODO: Add description**
+Super helpful:
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `plutobot` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:plutobot, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/plutobot](https://hexdocs.pm/plutobot).
-
+* [How to deploy an Elixir Plug application to Heroku](http://samueldavies.net/2017/04/29/how-to-deploy-an-elixir-plug-app-to-heroku/)
+* [How to build a lightweight webhook or JSON API endpoint in Elixir](http://samueldavies.net/2017/04/29/how-to-build-a-lightweight-webhook-endpoint-in-elixir-with-plug-not-phoenix/)
+* Building A Slack Bot With Elixir [Part 1](https://bendyworks.com/blog/building-a-slackbot-in-elixir-part-1), [Part 2](https://bendyworks.com/blog/building-a-slackbot-in-elixir-part-2)
