@@ -8,10 +8,10 @@ defmodule Plutobot.Router do
   plug :dispatch
 
   post "/webhook" do
-    send_resp(conn, 200, "hello world")
+    send_resp(conn, 200, ~s({"text":"ok"}))
   end
 
   match _ do
-    send_resp(conn, 404, "not_found")
+    send_resp(conn, 404, "Not found.")
   end
 end
